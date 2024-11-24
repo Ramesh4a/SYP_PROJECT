@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 784 784" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M392,0 C608.3,0 784,175.7 784,392 C784,608.3 608.3,784 392,784 C175.7,784 0,608.3 0,392 C0,175.7 175.7,0 392,0 Z M391.7,81.9 C221,81.9 81.9,221 81.9,391.7 C81.9,562.4 221,701.5 391.7,701.5 C562.4,701.5 701.5,562.4 701.5,391.7 C701.5,221 562.4,81.9 391.7,81.9 Z" fill="#627EEA"/>
+        <polygon fill="#627EEA" points="391.8 157.6 391.8 314.5 522.3 373.6"/>
+        <polygon fill="#627EEA" points="391.8 157.6 261.3 373.6 391.8 314.5"/>
+        <polygon fill="#627EEA" points="391.8 510.3 391.8 625.9 522.4 409.4"/>
+        <polygon fill="#627EEA" points="391.8 625.9 391.8 510.3 261.3 409.4"/>
+        <polygon fill="#627EEA" points="391.8 477.8 522.3 373.6 391.8 314.5"/>
+        <polygon fill="#627EEA" points="261.3 373.6 391.8 477.8 391.8 314.5"/>
+    </g>
+</svg>
